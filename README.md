@@ -44,7 +44,7 @@ Le projet est organisé en deux fichiers principaux :
 4. **Structure du projet** : Donne une vue d'ensemble des fichiers du projet et leurs responsabilités.
 5. **Instructions d'exécution** : Guide l'utilisateur sur la manière de télécharger, installer et exécuter le projet.
 6. **Exemple de fichier d'entrée** : Montre à l'utilisateur un exemple de fichier de configuration utilisé par la simulation.
-7. **Conclusion et améliorations futures** : Résume le travail accompli et propose des idées d'améliorations pour le futur.
+7. **Conclusion et améliorations futures** 
 
 
 
